@@ -16,6 +16,6 @@ Designed with a modern UI and fully responsive layout.
 - Resume Download
 
 ## 🌍 Live Website
-(Hosted via GitHub Pages — Link will be added here)
+(Hosted via GitHub Pages — https://KolluriRenusree.github.io/Portfolio/)
 
 
